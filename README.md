@@ -9,7 +9,7 @@
 ## Demo
 
 - [run.sh](run.sh)
-- [![Go](https://github.com/d-led/go-actors-sleepsort/actions/workflows/demo.yml/badge.svg)](https://github.com/d-led/go-actors-sleepsort/actions/workflows/demo.yml)
+- [![Demo](https://github.com/d-led/go-actors-sleepsort/actions/workflows/demo.yml/badge.svg)](https://github.com/d-led/go-actors-sleepsort/actions/workflows/demo.yml)
 
 ## Proto Actor Go
 
