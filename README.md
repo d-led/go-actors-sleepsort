@@ -41,6 +41,7 @@
 - details
   - minimalistic, runtime-local implementation
   - embedding provides actor functionality on top of state structs
+  - actor behavior safety guarantees must be met deliberately using boilerplate calls
 
 ## Queue
 
