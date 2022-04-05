@@ -40,7 +40,6 @@ func (state *sleeperActor) Receive(context actor.Context) {
 func main() {
 	whereami, _ := os.Getwd()
 	fmt.Printf("--=== %v ===--\n", path.Base(whereami))
-
 	rand.Seed(time.Now().UnixMicro())
 
 	count := 10
