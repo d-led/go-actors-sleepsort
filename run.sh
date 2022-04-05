@@ -9,3 +9,7 @@ cd ..
 cd ergo-sleepsort
 go get . && go run .
 cd ..
+
+cd molizen-sleepsort
+go get . && go run .
+cd ..

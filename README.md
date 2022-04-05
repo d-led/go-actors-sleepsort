@@ -15,8 +15,22 @@
 
 - [github.com/asynkron/protoactor-go](https://github.com/asynkron/protoactor-go)
 - [protoactor-sleepsort](protoactor-sleepsort)
+- details
+  - distribution
+  - [multi-language](https://github.com/asynkron)
 
 ## Ergo
 
 - [github.com/ergo-services/ergo](https://github.com/ergo-services/ergo)
 - [ergo-sleepsort](ergo-sleepsort)
+- details
+  - distribution compatible with Erlang/OTP nodes
+  - [sagas](https://github.com/ergo-services/ergo/tree/master/examples/gensaga)
+
+## Molizen
+
+- [github.com/sanposhiho/molizen](https://github.com/sanposhiho/molizen)
+  - the first spotted using code generation
+- details
+  - doesn't have a native scheduled send ('after')
+  - uses a code generator for type-safe actor proxies
