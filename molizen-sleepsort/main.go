@@ -45,6 +45,7 @@ func main() {
 		workers = append(workers, &actor)
 	}
 	wg.Add(count)
+	fmt.Println(numbers)
 
 	// start
 	for i := 0; i < count; i++ {

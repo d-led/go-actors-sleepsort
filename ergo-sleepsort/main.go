@@ -62,6 +62,7 @@ func main() {
 		workers = append(workers, process.Self())
 	}
 	wg.Add(count)
+	fmt.Println(numbers)
 
 	sender, err := node.Spawn("sender", gen.ProcessOptions{}, &sleeperActor{})
 	if err != nil {

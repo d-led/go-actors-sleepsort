@@ -62,6 +62,7 @@ func main() {
 		workers = append(workers, system.Root.Spawn(props))
 	}
 	wg.Add(count)
+	fmt.Println(numbers)
 
 	for i := 0; i < count; i++ {
 		system.Root.Send(workers[i], &sleepFor{
