@@ -13,4 +13,10 @@
 
 ## Proto Actor Go
 
+- [github.com/asynkron/protoactor-go](https://github.com/asynkron/protoactor-go)
 - [protoactor-sleepsort](protoactor-sleepsort)
+
+## Ergo
+
+- [github.com/ergo-services/ergo](https://github.com/ergo-services/ergo)
+- [ergo-sleepsort](ergo-sleepsort)
