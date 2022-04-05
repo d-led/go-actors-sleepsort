@@ -13,3 +13,7 @@ cd ..
 cd molizen-sleepsort
 go get . && go run .
 cd ..
+
+cd phony-sleepsort
+go get . && go run .
+cd ..

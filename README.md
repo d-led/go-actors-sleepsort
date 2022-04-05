@@ -34,3 +34,15 @@
 - details
   - doesn't have a native scheduled send ('after')
   - uses a code generator for type-safe actor proxies
+
+## Phony
+
+- [github.com/Arceliar/phony](https://github.com/Arceliar/phony)
+- details
+  - minimalistic, runtime-local implementation
+  - embedding provides actor functionality on top of state structs
+
+## Queue
+
+- [Azer0s/quacktors](https://github.com/Azer0s/quacktors)
+  - requires [qpmd?](https://github.com/Azer0s/qpmd)
