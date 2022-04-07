@@ -31,6 +31,7 @@
 
 - [github.com/sanposhiho/molizen](https://github.com/sanposhiho/molizen)
   - the first spotted using code generation
+- [molizen-sleepsort](molizen-sleepsort)
 - details
   - doesn't have a native scheduled send ('after')
   - uses a code generator for type-safe actor proxies
@@ -38,6 +39,7 @@
 ## Phony
 
 - [github.com/Arceliar/phony](https://github.com/Arceliar/phony)
+- [phony-sleepsort](phony-sleepsort)
 - details
   - minimalistic, runtime-local implementation
   - embedding provides actor functionality on top of state structs
