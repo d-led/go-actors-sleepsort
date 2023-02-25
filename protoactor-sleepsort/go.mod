@@ -2,10 +2,7 @@ module protoactor-sleepsort
 
 go 1.18
 
-require (
-	github.com/AsynkronIT/goconsole v0.0.0-20160504192649-bfa12eebf716
-	github.com/AsynkronIT/protoactor-go v0.0.0-20220403033403-f313dba2c418
-)
+require github.com/AsynkronIT/protoactor-go v0.0.0-20220403033403-f313dba2c418
 
 require (
 	github.com/Workiva/go-datastructures v1.0.53 // indirect
@@ -31,6 +28,6 @@ require (
 	go.opentelemetry.io/otel/sdk/export/metric v0.27.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v0.27.0 // indirect
 	go.opentelemetry.io/otel/trace v1.6.1 // indirect
-	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
