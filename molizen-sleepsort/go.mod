@@ -4,4 +4,4 @@ go 1.18
 
 require github.com/sanposhiho/molizen v0.1.9
 
-require github.com/google/uuid v1.3.0 // indirect
+require github.com/google/uuid v1.3.1 // indirect
